@@ -11,3 +11,30 @@
 7 - Agora e somente Clone do repositório via SSH
 8 - Copie a chave SSH 
 --------------------------------------------------------------------------------------
+************************Criação de um arquivo no GitHub******************************
+--------------------------------------------------------------------------------------
+******** No  navegador diretamante no GitHub com seu usuário**************************
+0  - Criar um novo repositório em(new repository)
+1  - Adicionar o nome no repositório em (Repository name) 
+2  - Da uma descrição para projeto em (Description)
+4  - Deixa a opção (public) marca para que possa se compartilhanda
+5  - Marque arquivo README 
+6  - Por fim criar o repositório 
+7  - Agora e somente Clone do repositório via SSH
+8  - Copie a chave SSH 
+--------------------------------------------------------------------------------------
+******** Na pasta no computador local ************************************************
+9  - Na pasta escolhinda abrir o "Git Bash Here" para execução dos comandos 
+10 - Execulta comando - git clone + a chave SSH. 
+11 - Será realizado um clone para computador local 
+12 - Será feita o clone da pasta do GitHub para computador 
+13 - Pode acessa essa pasta e coloca arquivos 
+14 - Pode verifica o status com  comando - git status 
+15 - Adicionar todos arquivos comando - git add . 
+16 - Pode verifica  status novamente comando - git status 
+17 - O comando= git add. não soube o arquivo para GitHub
+18 - O git add somente adicionou controle de versão local 
+19 - Comando= git commit -m (inclusão das anotações) 
+20 - Comando = git push origin main "enviar commit local para nuvem 
+21 - E pasta vai para nuvem 
+22 - Teste de alteração de versão 
